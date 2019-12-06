@@ -9,4 +9,4 @@ Concepts covered :
 - Finding Best Paramter Configs by running GridSearchCV
 
 
-# Sincere Thanks to WikiPedia and SVMUTIL for helping me out to understand SVM .
+# Sincere Thanks to WikiPedia and SVMUTIL for contents.
