@@ -7,3 +7,6 @@ Concepts covered :
 - Kernel Tricks
 - Use Cases on Support Vector Classifier (SVC)
 - Finding Best Paramter Configs by running GridSearchCV
+
+
+# Sincere Thanks to WikiPedia and SVMUTIL for helping me out to understand SVM .
